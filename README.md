@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @THIRUMULANATHAN
+- 👀 I’m interested in Problem solving
+- 🌱 I’m currently learning C++ and full stack development
+- 💞️ I’m looking to collaborate on projects involving front-end
+- 📫 can rech me by thiru@gmail.com
